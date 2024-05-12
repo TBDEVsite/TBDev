@@ -1,22 +1,6 @@
 
 <?php
-/*
-+------------------------------------------------
-|   TBDev.net BitTorrent Tracker PHP
-|   =============================================
-|   by CoLdFuSiOn
-|   (c) 2003 - 2011 TBDev.Net
-|   http://www.tbdev.net
-|   =============================================
-|   svn: http://sourceforge.net/projects/tbdevnet/
-|   Licence Info: GPL
-+------------------------------------------------
-|   $Date$
-|   $Revision: 2 $
-|   $Author$ <-- (oh, wonder what that is?)
-|   $URL$
-+------------------------------------------------
-*/
+
 if ( ! defined( 'IN_TBDEV_ADMIN' ) OR ($CURUSER['class'] < UC_SYSOP) )
 
 {

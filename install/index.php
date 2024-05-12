@@ -1,21 +1,5 @@
 <?php
-/*
-+------------------------------------------------
-|   TBDev.net BitTorrent Tracker PHP
-|   =============================================
-|   by CoLdFuSiOn
-|   (c) 2003 - 2011 TBDev.Net
-|   http://www.tbdev.net
-|   =============================================
-|   svn: http://sourceforge.net/projects/tbdevnet/
-|   Licence Info: GPL
-+------------------------------------------------
-|   $Date$
-|   $Revision$
-|   $Author$
-|   $URL$
-+------------------------------------------------
-*/
+
 error_reporting  (E_ERROR | E_WARNING | E_PARSE);
 set_magic_quotes_runtime(0);
 

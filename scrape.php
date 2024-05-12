@@ -1,21 +1,5 @@
 <?php
-/*
-+------------------------------------------------
-|   TBDev.net BitTorrent Tracker PHP
-|   =============================================
-|   by CoLdFuSiOn
-|   (c) 2003 - 2011 TBDev.Net
-|   http://www.tbdev.net
-|   =============================================
-|   svn: http://sourceforge.net/projects/tbdevnet/
-|   Licence Info: GPL
-+------------------------------------------------
-|   $Date$
-|   $Revision: 199 $
-|   $Author$
-|   $URL$
-+------------------------------------------------
-*/
+
 require_once("include/config.php");
 
     if (!@mysql_connect($TBDEV['mysql_host'], $TBDEV['mysql_user'], $TBDEV['mysql_pass']))

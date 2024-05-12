@@ -1,21 +1,5 @@
 <?php
-/*
-+------------------------------------------------
-|   TBDev.net BitTorrent Tracker PHP
-|   =============================================
-|   by CoLdFuSiOn
-|   (c) 2003 - 2011 TBDev.Net
-|   http://www.tbdev.net
-|   =============================================
-|   svn: http://sourceforge.net/projects/tbdevnet/
-|   Licence Info: GPL
-+------------------------------------------------
-|   $Date$
-|   $Revision$
-|   $Author$
-|   $URL$
-+------------------------------------------------
-*/
+
 // I really really can't see any point to this section
 // because all can be deleted from the dead torent routine
 // this should only be run once a month at most. Complete waste of time!

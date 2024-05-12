@@ -1,21 +1,5 @@
 <?php
-/*
-+------------------------------------------------
-|   TBDev.net BitTorrent Tracker PHP
-|   =============================================
-|   by CoLdFuSiOn
-|   (c) 2003 - 2011 TBDev.Net
-|   http://www.tbdev.net
-|   =============================================
-|   svn: http://sourceforge.net/projects/tbdevnet/
-|   Licence Info: GPL
-+------------------------------------------------
-|   $Date$
-|   $Revision$
-|   $Author$
-|   $URL$
-+------------------------------------------------
-*/
+
 $TABLE[] = "CREATE TABLE avps (
   arg varchar(20) COLLATE utf8_unicode_ci NOT NULL,
   value_s text COLLATE utf8_unicode_ci NOT NULL,
